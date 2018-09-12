@@ -27,6 +27,8 @@
 || Example: viewall 1
 || help: Shows program usage instructions.
 || Example: help
+|| sortName: Sort the list by name
+|| Example: sortName
 || exit: Exits the program.
 || Example: exit
 || ===================================================

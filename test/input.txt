@@ -155,3 +155,12 @@
   # exits properly
   exit
   list
+
+##########################################################
+# test sortName command
+##########################################################
+
+  # sortName
+  sortName
+  list
+  exit
